@@ -235,9 +235,9 @@ function startEverything() {
     
     // Create 3 signs
     const signTexts = [
-        'Tráete a tus tías, abuela, vecinos… y gana un pase VIP',
-            'Arranca a las 5:30 pm, pero se aconseja llegar temprano (tipo 2:00 pm), por si se acaba la cerveza',
-        'Trae tus llaves para el jueguito'
+        'Mot de passe: shibboleth\nDress code: ce que tu portais le 1er jour',
+        'jongleurs, gladiateurs, combats de coqs',
+        'À gagner: saut en parachute (depuis le toit de Chavannes 37, prends ton propre parachute)'
     ];
     
     for (let i = 0; i < 3; i++) {
