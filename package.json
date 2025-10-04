@@ -1,0 +1,13 @@
+{
+  "name": "evamfarewell-fr",
+  "version": "1.0.0",
+  "description": "French farewell animation for EVAM",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site'"
+  },
+  "keywords": ["farewell", "animation", "french"],
+  "author": "EVAM",
+  "license": "MIT"
+}
