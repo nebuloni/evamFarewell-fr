@@ -237,7 +237,7 @@ function startEverything() {
     const signTexts = [
         'Mot de passe: shibboleth\nDress code: comme ton 1er j\nHeure: quand t\'as soif',
         'jongleurs, gladiateurs, combats de coqs',
-        'À gagner: saut en parachute (depuis le toit de Chavannes 37, prends ton propre parachute)'
+        'À gagner: saut en parachute (depuis le toit du 37, prends ton propre parachute)'
     ];
     
     for (let i = 0; i < 3; i++) {
