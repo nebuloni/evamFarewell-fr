@@ -340,4 +340,4 @@ window.addEventListener('load', () => {
     updateVisitorCount();
 });
 
-console.log('Script loaded!');
+console.log('Script loaded! Updated with new sign text!');
